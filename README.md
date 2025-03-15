@@ -8,7 +8,7 @@ I am a **Staff Scientist** at the **Epithelial Therapeutics Unit (LCIM), Nationa
 - 📊 **Aging, Atopic Dermatitis, and Disease Mechanisms**  
 - 🤖 **Machine Learning & AI Applications in Biomedical Research**  
 
-I have worked at **NIH, The Ohio State University, Nanyang Technological University, University of Michigan**,**Université d'Auvergne, France**,**Max Plank Institute for Terrestrial Microbiology,Germany** and **Université d'Auvergne, France**, conducting research on **microbiomes, metabolic networks, microbiology, molecular biology and disease biomarkers**.  
+I have worked at **NIH, The Ohio State University, Nanyang Technological University, University of Michigan**,**Université d'Auvergne, France**,**Max Plank Institute for Terrestrial Microbiology,Germany** and **Palacký University Olomouc, Czech Republic** conducting research on **microbiomes, metabolic networks, microbiology, molecular biology and disease biomarkers**.  
 
 ---
 
