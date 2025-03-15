@@ -35,7 +35,6 @@ Metabolomics | Microbiome Research | Bioinformatics | Computational Biology | Ma
 ## 📚 Statistics  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppchaudhary&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppchaudhary&layout=compact&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ppchaudhary&theme=dracula)  
 
 ---
 
