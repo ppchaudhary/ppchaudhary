@@ -38,4 +38,4 @@ Metabolomics | Microbiome Research | Bioinformatics | Computational Biology | Ma
 
 ---
 
-🚀 **Let’s connect and collaborate on exciting projects!**  
+🚀 **Let’s connect and collaborate on exciting projects in microbiome and metabolomics field!**  
