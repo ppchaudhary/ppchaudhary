@@ -13,7 +13,7 @@ I have worked at **NIH, The Ohio State University, Nanyang Technological Univers
 ---
 
 ## 💬 Ask Me About  
-Metabolomics | Microbiome Research | Bioinformatics | Computational Biology | Machine Learning  
+Metabolomics | Microbiome | Bioinformatics | Computational Biology | Machine Learning  
 
 ---
 
