@@ -2,7 +2,7 @@
 This is **Prem Prashant Chaudhary**.  
 
 ## 👤 About Me  
-I am a **Staff Scientist** at the **Epithelial Therapeutics Unit (LCIM), National Institute of Allergy and Infectious Diseases (NIAID), NIH**. My research focuses on **microbiome and metabolomics studies**, with a special interest in:  
+I am a **Staff Scientist** at the **Epithelial Therapeutics Unit (LCIM), National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH)**. My research focuses on **microbiome and metabolomics studies**, with a special interest in:  
 - 🧬 **Skin, gut and oral microbiome & metabolomics**  
 - 🔬 **Multi-Omics Data Analysis (Metagenomics, Metabolomics, Proteomics)**  
 - 📊 **Aging, Atopic Dermatitis, and Disease Mechanisms**  
