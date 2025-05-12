@@ -19,7 +19,7 @@ Metabolomics | Microbiome | Bioinformatics | Computational Biology | Machine Lea
 
 ## 📥 Contact Me  
 📩 **Email:** [luckypgi@gmail.com](mailto:luckypgi@gmail.com) | [chaudharyp2@nih.gov](mailto:chaudharyp2@nih.gov)  
-🏠 **Personal Website:** [ppchaudhary.github.io](https://premchaudhary.github.io) (Coming soon!)  
+🏠 **Personal Website:** [https://ppchaudhary.github.io/portfolio/)  
 🔬 **Google Scholar:** [My Research Profile](https://scholar.google.com/citations?user=6Nv2ql4AAAAJ)  
 🐦 **Twitter:** [@luckypgi](https://twitter.com/luckypgi)  
 
